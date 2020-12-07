@@ -27,5 +27,5 @@ EXPOSE 6444
 EXPOSE 6445
 EXPOSE 6446
 
-ENV SGE_ROOT /var/lib/gridengine/
+ENV SGE_ROOT /var/lib/gridengine
 ENV SGE_CELL default
